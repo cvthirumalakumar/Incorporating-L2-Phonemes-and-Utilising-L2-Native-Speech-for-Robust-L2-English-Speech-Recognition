@@ -6,3 +6,4 @@ This is a course project. Main goal of the project is to implement the method pr
 In the paper authors implemented the method for Korean speakers. In this project I have implemented for Hindi speakers speaking English. More details about the expeiments and results can be found in `report.pdf`
 
 Experiments are conducted using kaldi toolkit. And Hindi Lexicon is generated using [Unfied-Parser](https://www.iitm.ac.in/donlab/tts/unified.php). Extended lexicon is genereated based on the phoneme transfer rules mentioned in [Indic TIMIT](https://ieeexplore.ieee.org/document/9041230) paper using custom python script. generated Hindi lexicon and extended lexion are found in `asr/data/local/lexicons`
+ code in `extended_lexicon` folder is not the final used one.
