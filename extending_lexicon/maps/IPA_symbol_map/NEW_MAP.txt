@@ -1,0 +1,143 @@
+ɑ    AA
+æ    AE
+ʌ    AH
+ɔ    AO
+aʊ    AW
+aɪ    AY
+b    B
+tʃ    CH
+d    D
+ð    DH
+ɛ    EH
+ɝ    ER
+eɪ    EY
+f    F
+ɡ    G
+h    HH
+ɪ    IH
+i    IY
+dʒ    JH
+k    K
+l    L
+m    M
+n    N
+ŋ    NG
+oʊ    OW
+ɔɪ    OY
+p    P
+ɹ    R
+s    S
+ʃ    SH
+t    T
+θ    TH
+ʊ    UH
+u    UW
+v    V
+w    W
+j    Y
+z    Z
+ʒ    ZH
+ɾ    DX
+ʔ    Q
+m̩    EM
+n̩    EN
+ŋ̍    ENG
+ɾ̃    NX
+l̩    EL
+r    R
+ɦ    HV
+ɔi    OY
+ʉ    UX
+ə    AX
+ᵻ    IX
+ɚ    AXR
+ə̥    AX-H
+d̚    DCL
+b̚    BCL
+ɡ̚    GCL
+k̚    KCL
+p̚    PCL
+t̚    TCL
+e    EH
+a    AA
+ɒ    AO
+o    UH
+ɚ'    AXR
+au    AW
+ai    AY
+ɨ    IX
+y    IY
+t̪    T
+ɖ    D
+ʈ    T
+ɔe    OY
+d̪    D
+i:    IH Y
+ʈʃ    CH
+u:    UW
+ei    EY
+eə    EY
+iə    IH AX
+e:    EH
+ao    AW
+c    CH
+ae    AE
+ɽ    R
+a:    AA
+a˞    AXR
+o:    AO
+q    K
+ui    UH IH
+wh    W HH
+kh    K HH
+ʈh    T HH
+t̪h    T HH
+d̪h    D HH
+gh    G HH
+ph    P HH
+bh    B HH
+ɭ    L
+oə    AO AX
+uə    UW AX
+əu    AW
+ia    IH Y AX
+əi    AX IY
+əo    AX UH
+io    IY AO
+ie    IY EH
+dⁿ    D N
+ɳ    N
+d̺    D
+ʐ    Z
+iɔ    Y AO
+з:    AX
+ɔu    AW
+iæ    IH Y AX
+ea    IH
+ua    UH
+ɔ:    AO
+ɛi    EY
+aɹ    AA
+iɚ    IH AX
+eɚ    EY
+oi    UH IH
+ah    AA HH
+oe    UH IH
+eu    IH UW
+ue    UW IH
+əe    AX IH
+iu    IH UW
+ou    UH
+eɔ    IH AO
+aə    AE
+ɛə    EH AX
+eo    IH UH
+uɔ    UW AO
+uo    AO
+ue    EH
+uæ    EH
+oa    UH AA
+æo    AE UH
+e:ə    EH AX
+iɛ    IY EH
+    

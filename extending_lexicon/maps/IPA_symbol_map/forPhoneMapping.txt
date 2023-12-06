@@ -1,0 +1,117 @@
+ɪ	ɪ	IH
+e	ɪ	EH
+ɛ	ɛ	EH
+æ	æ	AE
+a	ɑ	AA
+ɒ	ɔ	AO
+o	ʊ	UH
+u	u	UW
+ɚ'	ɚ	AXR
+ə	ə	AX
+au	aʊ	AW
+ai	aɪ	AY
+ŋ	ŋ	NG
+r	r	R
+ɡ	ɡ	G
+ɨ	ᵻ	IX
+y	i	IY
+ð	ð	DH
+d	d	D
+i	i	IY
+n	n	N
+ɔ	ɔ	AO
+t	t	T
+h	h	HH
+w	w	W
+f	f	F
+l	l	L
+m	m	M
+b	b	B
+s	s	S
+k	k	K
+p	p	P
+z	z	Z
+dʒ	dʒ	JH
+ʒ	ʒ	ZH
+θ	θ	TH
+v	v	V
+ʃ	ʃ	SH
+j	j	Y
+t̪	t	T
+ɖ	d	D
+ʈ	t	T
+tʃ	tʃ	CH
+ɔe	ɔi	OY
+d̪	d	D
+i:	ɪ j	IH Y
+ʈʃ	tʃ	CH
+u:	u	UW
+ei	eɪ	EY
+eə	eɪ	EY
+iə	ɪ ə	IH AX
+e:	ɛ	EH
+ao	aʊ	AW
+ɔi	ɔi	OY
+c	tʃ	CH
+ae	æ	AE
+ɽ	r	R
+a:	ɑ	AA
+a˞	ɚ	AXR
+o:	ɔ	AO
+q	k	K
+ui	ʊ ɪ	UH IH
+wh	w h	W HH
+kh	k h	K HH
+ʈh	t h	T HH
+t̪h	t h	T HH
+d̪h	d h	D HH
+gh	g h	G HH
+ph	p h	P HH
+bh	b h	B HH
+ɭ	l	L
+oə	ɔ ə	AO AX
+uə	u ə	UW AX
+ɔɪ	ɔi	OY
+əu	aʊ	AW
+ia	ɪ j ə	IH Y AX
+əi	ə i	AX IY
+əo	ə ʊ	AX UH
+io	i ɔ	IY AO
+ie	i ɛ	IY EH
+dⁿ	d n	D N
+ɳ	n	N
+d̺	d	D
+ʐ	z	Z
+ɹ	r	R
+iɔ	j ɔ	Y AO
+з:	ә	AX
+ɔu	aʊ	AW
+iæ	ɪ j ə	IH Y AX
+ea	ɪ	IH
+ua	ʊ	UH
+ɔ:	ɔ	AO
+ɛi	eɪ	EY----------
+aɹ	ɑ	AA
+iɚ	ɪ ə	IH AX
+eɚ	eɪ	EY
+oi	ʊ ɪ	UH IH
+ah	ɑ h	AA HH
+oe	ʊ ɪ	UH IH
+eu	ɪ u	IH UW
+ue	u ɪ	UW IH
+əe	ə ɪ	AX IH
+iu	ɪ u	IH UW
+ou	ʊ	UH
+eɔ	ɪ ɔ	IH AO
+aə	æ	AE
+ɛə	ɛ ə	EH AX
+eo	ɪ ʊ	IH UH
+oe	ʊ ɪ	UH IH
+uɔ	u ɔ	UW AO
+uo	ɔ	AO
+ue	ɛ	EH
+uæ	ɛ	EH
+oa	ʊ ɑ	UH AA
+æo	æ ʊ	AE UH
+e:ə	ɛ ə	EH AX
+iɛ	i ɛ	IY EH
